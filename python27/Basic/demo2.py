@@ -48,6 +48,13 @@ print str[:-5:-3]  # 逆序截取 格式: str[begin:end:step]
 # step>0,表示从左往右.
 # step<0,表示从右往左.
 
+# 字符串按照原意输出 r/R
+a = r'\n'
+print a
+
+# unicode 字符串
+a = u'Hello\u0020World !'
+print a
 
 print "##############################  5. List列表"
 list = ['runoob', 786, 2.23, 'john',
