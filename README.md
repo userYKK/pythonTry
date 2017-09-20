@@ -16,7 +16,12 @@
 
 >     1. Basic 基于 2.7 版本的学习
 >        --- demo1.py 基础语法
->        --- demo1.py 基础语法
+>        --- demo2.py 变量类型
+>        --- demo3.py 运算符
+>        --- demo4.py 条件语句  循环语句
+>        --- demo5.py 时间函数
+>        --- demo6.py 函数模块
+>        --- demo7.py 文件 I/O
 
 
 
