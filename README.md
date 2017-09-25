@@ -22,6 +22,7 @@
 >        --- demo5.py 时间函数
 >        --- demo6.py 函数模块
 >        --- demo7.py 文件 I/O
+>        --- demo8.py python中类
 
 
 
